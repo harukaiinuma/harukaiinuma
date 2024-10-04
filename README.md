@@ -9,3 +9,12 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,py,express,docker,firebase,github,materialui,mysql,nginx,nodejs,notion,npm,postgres,prisma,tailwind,vite,vscode,aws)
 
 
+
+
+### 🌱 DATA.
+ 
+  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=harukaiinuma&show_icons=true&theme=gruvbox" />
+
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=harukaiinuma&theme=onedark&count_private=true)
